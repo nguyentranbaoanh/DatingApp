@@ -1,4 +1,5 @@
 .vscode
 bin
 obj
-appsettings.json
+appsettings.jsongit
+appsettings.Development.json
